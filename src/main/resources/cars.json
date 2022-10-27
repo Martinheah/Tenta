@@ -1,0 +1,22 @@
+[
+  {
+    "color": "Red",
+    "brand": "Mercedes",
+    "numberOfCars": 1
+  },
+  {
+    "color": "Blue",
+    "brand": "Audi",
+    "numberOfCars": 2
+  },
+  {
+    "color": "Yellow",
+    "brand": "Volvo",
+    "numberOfCars": 3
+  },
+  {
+    "color": "Black",
+    "brand": "Volkswagen",
+    "numberOfCars": 4
+  }
+]
